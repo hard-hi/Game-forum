@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="论坛子页面.css" type="text/css">
+    <script>
+        var i=0;
+function time(){
+  var img=document.getElementById('second-1');
+   i++
+      if (i==1)
+	  img.src="QQ图片20190408102705.jpg";
+      if (i==2)
+	  img.src="QQ图片20190408102718.jpg";
+      if (i==3)
+	  img.src="QQ图片20190408104116.jpg";
+      if (i==4)
+	  img.src="QQ图片20190408102718.jpg";
+      if (i==5)
+	  img.src="QQ图片20190408104116.jpg";
+      
+}
+window.onload=function(){
+   setInterval(time,2000);
+}
+    </script>
+</head>
+<body>
+    <div id="first">
+        <h3>Game Forum</h3>
+        <ul>
+            <li>主页</li>
+            <li>游戏资讯</li>
+            <li>游戏论坛</li>
+            <li>我的</li>
+        </ul>
+    </div>
+    <div id="second">
+        <img src="QQ图片20190408104116.jpg" id="second-1">
+    </div>
+    <div id="bodyer">
+        <div id="aa">
+        <h3>今日热帖</h3>
+        <p>...</p>
+        <p>.......</p>
+    </div>
+    <div id="bb">
+        <h3>赛事风向</h3>
+        <p>...</p>
+        <p>.......</p>
+    </div>
+    <div id="cc">
+        <h3>版本解析</h3>
+        <p>...</p>
+        <p>.......</p>
+    </div>
+    <div id="dd">
+        <h3>英雄讨论</h3>
+        <p>...</p>
+        <p>.......</p>
+    </div>
+    </div>
+    <div id="vv">
+        <button>发帖</button>
+        <img src="QQ图片20190408104116.jpg" id="v">
+    </div>
+    <div id="footer">
+        <ul id="one"> 
+            <h3>帖子列表</h3>
+            <li>...</li>
+            <li>...</li>
+            <li>...</li>
+            <li>...</li>
+            <li>...</li>
+            <li>...</li>
+        </ul>
+        <ul id="two">
+            <h3>作者</h3>
+        <li>...</li>
+        <li>...</li>
+        <li>...</li>
+        <li>...</li>
+        <li>...</li>
+        <li>...</li>
+    </ul>
+    <h4>下一页</h4>
+    <div id="vvn">
+    <button>1</button>
+    <button>2</button>
+    <button>3</button>
+    <button>4</button>
+    <button>5</button>
+    <button>下一页</button>
+    </div>
+    </div>
+</body>
+</html>
