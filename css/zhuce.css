@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#all{
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(1.jpg);
+    background-size: 100% 100%;
+}
+#dl{
+    position: relative;
+    width: 517px;
+    height:620px;
+    margin-top:100px;
+    margin-left: 840px;
+    background-color: whitesmoke;
+}
+#dlh{
+    width: 100%;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    line-height: 100px;
+}
+#dls,#dlm,#dly,#dlq{
+    width: 320px;
+    height: 44px;
+    margin-left: 10px;
+}
+#dlm,#dly,#dlq,#dls,img{
+    margin-bottom: 20px;
+}
+img{
+    margin-top: 4px;
+}
+#dls{
+    width: 212px;
+}
+#dld{
+    width: 100px;
+    height: 48px;
+}
+#dly::placeholder,#dls::placeholder,#dlm::placeholder,#dlq::placeholder{
+    color: darkgrey;
+}
+#ctn,label{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    color: darkgray;
+}
+#ctn{
+    margin-left: 120px;
+}
+img{
+    width: 44px;
+    height: 44px;
+    margin-left: 60px;
+}
+#dlz,#dll{
+    width: 240px;
+    height: 48px;
+    font-size: 20px;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+#dlz{
+    background-color: red;
+}

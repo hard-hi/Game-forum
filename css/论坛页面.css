@@ -1,0 +1,284 @@
+html{
+    width:100%;
+    overflow-x:hidden;
+  }
+body{
+    width:auto;
+    height:auto;
+}
+#first{
+   width: 1400px;
+   height: 100px;
+   background-color: black;
+}
+#first h3{
+    color:blue; 
+    position: relative;
+    top:40px;
+    left:50px;
+}
+#first ul{ 
+    position: relative;
+    left:220px;
+
+}
+#first ul li{
+    color:white; 
+    list-style:none;
+    float:left;
+    padding-left:150px;
+}
+#second{
+    width: 1400px;
+    height: 80px;
+    background-color:darkgrey;
+    position: relative;
+    top:-20px;
+}
+#second h2{
+    position: relative;
+    left: 70px;
+    top:26px;
+}
+#second input{
+    position: relative;
+    left: 1000px;
+    top:-20px;
+}
+#second button{
+    position: relative;
+    left: 1000px;
+    top:-20px;
+}
+#kong{
+    width: 1400px;
+    height: 30px;
+    background-color: dimgrey;
+    position: relative;
+    top:-20px;
+}
+#bodyone{
+    width: 1400px;
+    height: 400px;
+    position: relative;
+    top:-40px;
+}
+#titleone{
+    width: 1100px;
+    height: 50px;
+    background-color: rgb(231, 231, 231);
+    position: relative;
+    top:20px;
+    left:50px;
+}
+#titleone h3{
+    position: relative;
+    top:14px;
+    left:100px;
+}
+#bodyone img{
+    width:100px;
+    height: 100px;
+}
+#paiban{
+    height:400px;
+    width: 1100px;
+    margin:auto;
+    }
+#paiban img{
+    padding-top: 80px;
+    padding-left: 80px;
+    margin-left: 100px;
+    margin-top: -10px;
+    position: relative;
+    left:-80px;
+    }
+#vv li{
+    list-style: none;
+    float:left;
+    padding-left: 200px;
+    padding-top:  150px;
+    position: relative;
+    left:160px;
+    top:-420px;
+}
+#one{
+    width:1000px;
+}
+#bodytwo{
+    width: 1400px;
+    height: 400px;
+    position: relative;
+    top:-40px;
+}
+#bodytwo img{
+    width:100px;
+    height: 100px;
+}
+#titletwo{
+    width: 1100px;
+    height: 50px;
+    background-color: rgb(231, 231, 231);
+    position: relative;
+    top:20px;
+    left:50px;
+}
+#titletwo h3{
+    position: relative;
+    left:-720px;
+    top:10px;
+}
+#paiban1{
+    height:400px;
+    width: 1100px;
+    margin:auto;
+    }
+#paiban1 img{
+    padding-top: 80px;
+    padding-left: 80px;
+    margin-left: 100px;
+    margin-top: -10px;
+    position: relative;
+    left:20px;
+    top:-330px;
+    }
+#vvn li{
+    list-style: none;
+    float:left;
+    padding-left: 200px;
+    padding-top:  150px;
+    position: relative;
+    left:160px;
+    top:-310px;
+}
+#two{
+    width:1000px;
+}
+#bodythree{
+    width: 1400px;
+    height: 400px;
+    position: relative;
+    top:-40px;
+}
+#bodythree img{
+    width:100px;
+    height: 100px;
+}
+#titlethree{
+    width: 1100px;
+    height: 50px;
+    background-color: rgb(231, 231, 231);
+    position: relative;
+    top:20px;
+    left:50px;
+}
+#titlethree h3{
+    position: relative;
+    left:-720px;
+    top:10px;
+}
+#paiban3{
+    height:400px;
+    width: 1100px;
+    margin:auto;
+    }
+#paiban3 img{
+    padding-top: 80px;
+    padding-left: 80px;
+    margin-left: 100px;
+    margin-top: -10px;
+    position: relative;
+    left:20px;
+    top:-230px;
+    }
+#vn li{
+    list-style: none;
+    float:left;
+    padding-left: 200px;
+    padding-top:  150px;
+    position: relative;
+    left:160px;
+    top:-210px;
+}
+#three{
+    width:1000px;
+}
+#bodyfour{
+    width: 1400px;
+    height: 200px;
+    position: relative;
+    top:-40px;
+}
+#bodyfour img{
+    width:100px;
+    height: 100px;
+}
+#titlefour{
+    width: 1100px;
+    height: 50px;
+    background-color: rgb(231, 231, 231);
+    position: relative;
+    top:20px;
+    left:50px;
+}
+#titlefour h3{
+    position: relative;
+    left:-720px;
+    top:10px;
+}
+#paiban4{
+    height:400px;
+    width: 1100px;
+    margin:auto;
+    }
+#paiban4 img{
+    padding-top: 80px;
+    padding-left: 80px;
+    margin-left: 100px;
+    margin-top: -10px;
+    position: relative;
+    left:20px;
+    top:-120px;
+    }
+#v li{
+    list-style: none;
+    float:left;
+    padding-left: 200px;
+    padding-top:  150px;
+    position: relative;
+    left:160px;
+    top:-100px;
+}
+#four{
+    width:1000px;
+}
+#foot{
+    width: 1400px;
+    height: 120px;
+    background-color: rgb(119, 115, 115);
+}
+#aa{
+    height: 120px;
+    width: 450px;
+    position: relative;
+    left:-600px;
+}
+#bb{
+    height: 120px;
+    width: 280px;
+    position: relative;
+    left:800px;
+    top:-124px;
+}
+#footer{
+    background-color: rgb(99, 95, 94);
+    width: 1400px;
+    height: 50px;
+    position: relative;
+    top:-20px;
+}
+#footer p{
+    position: relative;
+    left:1050px;
+    top:26px;
+}

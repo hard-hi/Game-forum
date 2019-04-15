@@ -1,0 +1,115 @@
+html{
+    width:100%;
+    overflow-x:hidden;
+  }
+body{
+    width:auto;
+    height:auto;
+}
+#first{
+    width: 1400px;
+    height: 100px;
+    background-color: black;
+ }
+#first ul li{
+    color:white; 
+    list-style:none;
+    float:left;
+    padding-left:150px;
+}
+#first h3{
+    color:blue; 
+    position: relative;
+    top:40px;
+    left:50px;
+}
+#first ul{ 
+    position: relative;
+    left:220px;
+}
+#img{
+    width:1400px;
+    height:100px;
+    background: url(u=949270385,1488592053&fm=26&gp=0.jpg) no-repeat;
+	background-size: cover;
+}
+#kong{
+    width: 1400px;
+    height: 50px;
+    background-color: rgb(161, 159, 159);
+    position: relative;
+}
+#second{
+    width: 1400px;
+    height: 80px;
+    background-color:rgb(138, 136, 136);
+    position: relative;
+}
+#second h2{
+    position: relative;
+    left: 70px;
+    top:26px;
+    color:white;
+}
+#third{
+    width: 1400px;
+    height: 800px;
+    position: relative;
+    left:0px;
+    top:0px;
+    background-color: rgb(204, 204, 204);
+    }
+#d{
+    height: 30px;
+    width: 500px;
+    position: absolute;
+    left:400px;
+    top: 171px;
+}
+#third h1{
+    position: absolute;
+    left:280px;
+    top: 160px;
+    font-size: 20px;
+}
+#e{
+    height: 30px;
+    width: 500px;
+    position: absolute;
+    left:400px;
+    top: 221px;
+}
+#third h2{
+    position: absolute;
+    left:320px;
+    top: 205px;
+    font-size: 20px;
+}
+#f{
+    height: 260px;
+    width: 500px;
+    position: absolute;
+    left:400px;
+    top: 271px;
+}
+#third h3{
+    position: absolute;
+    left:280px;
+    top: 255px;
+    font-size: 20px;
+}
+#get{
+    position: absolute;
+    left:1000px;
+    top: 660px;
+    font-size: 20px;
+    padding: 4px 10px;
+    color:blue;
+    size: 40px;
+}
+#footer{
+    width: 1400px;
+    height: 50px;
+    background-color:slategray;
+    position: relative;
+}

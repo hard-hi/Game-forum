@@ -1,0 +1,170 @@
+html{
+    width:100%;
+    overflow-x:hidden;
+  }
+body{
+    width: 1400px;
+    height: 1000px;
+}
+#first{
+   width: 1400px;
+   height: 100px;
+   background-color: black;
+}
+#first h3{
+    color:blue; 
+    position: relative;
+    top:40px;
+    left:50px;
+}
+#first ul{ 
+    position: relative;
+    left:220px;
+
+}
+#first ul li{
+    color:white; 
+    list-style:none;
+    float:left;
+    padding-left:150px;
+}
+#second img{
+    width:1400px;
+    height: 200px;
+}
+#bodyer{
+    width: 1400px;
+    height: 200px;
+    background-color: silver;
+    float: left;
+}
+#aa{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+}
+#aa h3{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#aa p{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#bb{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -218px;
+    left: 400px;;
+}
+#bb h3{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#bb p{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#cc{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -435px;
+    left: 740px;;
+}
+#cc h3{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#cc p{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#dd{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -654px;
+    left: 1100px;;
+}
+#dd h3{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#dd p{
+    position: relative;
+    left:100px;
+    top: 20px;
+}
+#vv{
+    height: 200px;
+    width: 1400px;
+    background-color: rgb(201, 197, 197);
+}
+#vv button{
+    background-color: blue;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left: 50px;;
+}
+#v{
+    width: 350px;
+    height: 150px;
+    position: relative;
+    left: 800px;
+    top:20px;
+}
+#footer{
+    width: 1400px;
+    height: 500px;
+    background-color:slategray;
+    position: relative;
+    top:200px;
+}
+#footer h3{
+  position: relative;
+  top:20px;
+  left: 100px;
+}
+#footer h4{
+    position: relative;
+    top: -440px;
+    left: 700px;
+  }
+#one li{
+    list-style: none;
+    margin: 40px;
+    position: relative;
+  left: 80px;
+}
+#two li{
+    list-style: none;
+    margin: 40px;
+    position: relative;
+    top:-426px;
+  left: 800px;
+}
+#two h3{
+    position: relative;
+    top: -406px;
+    left: 830px;
+}
+#vvn{
+   
+    position: relative;
+    top:-446px;
+    left: 950px;
+}
+#vvn button{
+    margin: 10px;
+}
